@@ -1,0 +1,7 @@
+numpy
+scipy
+scikit-image
+matplotlib
+opencv-python
+opencv-contrib-python
+tensorflow-gpu==1.15
